@@ -1,0 +1,140 @@
+<Root type="OR" ref="AutoSel">
+  <Page title="Selenium - Web Browser Automation" ref="Selenium">
+    <ObjectGroup ref="Projects">
+      <Object frame="" ref="Projects">
+        <Property value="" ref="name" pref="1"/>
+        <Property value="" ref="id" pref="2"/>
+        <Property value="Projects" ref="link_text" pref="3"/>
+        <Property value="//a[@title='Selenium Projects']" ref="relative_xpath" pref="4"/>
+        <Property value="(/html/body/div[3]/div/ul/li[5]/a)[1]" ref="xpath" pref="5"/>
+        <Property value="" ref="class" pref="6"/>
+        <Property value="a[title=&quot;Selenium Projects&quot;]" ref="css" pref="7"/>
+        <Property value="a" ref="type" pref="8"/>
+      </Object>
+    </ObjectGroup>
+  </Page>
+  <Page title="Selenium Projects" ref="Selenium1">
+    <ObjectGroup ref="Download">
+      <Object frame="" ref="Download">
+        <Property value="" ref="name" pref="1"/>
+        <Property value="" ref="id" pref="2"/>
+        <Property value="Download" ref="link_text" pref="3"/>
+        <Property value="//a[@title='Get Selenium']" ref="relative_xpath" pref="4"/>
+        <Property value="(/html/body/div[3]/div/ul/li[4]/a)[1]" ref="xpath" pref="5"/>
+        <Property value="" ref="class" pref="6"/>
+        <Property value="a[title=&quot;Get Selenium&quot;]" ref="css" pref="7"/>
+        <Property value="a" ref="type" pref="8"/>
+      </Object>
+    </ObjectGroup>
+  </Page>
+  <Page title="Downloads" ref="Downloads">
+    <ObjectGroup ref="Documentation">
+      <Object frame="" ref="Documentation">
+        <Property value="" ref="name" pref="1"/>
+        <Property value="" ref="id" pref="2"/>
+        <Property value="Documentation" ref="link_text" pref="3"/>
+        <Property value="//a[@title='Technical references and guides']" ref="relative_xpath" pref="4"/>
+        <Property value="(/html/body/div[3]/div/ul/li[3]/a)[1]" ref="xpath" pref="5"/>
+        <Property value="" ref="class" pref="6"/>
+        <Property value="a[title=&quot;Technical references and guides&quot;]" ref="css" pref="7"/>
+        <Property value="a" ref="type" pref="8"/>
+      </Object>
+    </ObjectGroup>
+  </Page>
+  <Page title="Selenium Documentation — Selenium Documentation" ref="Selenium2">
+    <ObjectGroup ref="Support">
+      <Object frame="" ref="Support">
+        <Property value="" ref="name" pref="1"/>
+        <Property value="" ref="id" pref="2"/>
+        <Property value="Support" ref="link_text" pref="3"/>
+        <Property value="//a[@title='Get help with Selenium']" ref="relative_xpath" pref="4"/>
+        <Property value="(/html/body/div[3]/div/ul/li[2]/a)[1]" ref="xpath" pref="5"/>
+        <Property value="" ref="class" pref="6"/>
+        <Property value="a[title=&quot;Get help with Selenium&quot;]" ref="css" pref="7"/>
+        <Property value="a" ref="type" pref="8"/>
+      </Object>
+    </ObjectGroup>
+  </Page>
+  <Page title="Getting Help" ref="Getting">
+    <ObjectGroup ref="About">
+      <Object frame="" ref="About">
+        <Property value="" ref="name" pref="1"/>
+        <Property value="" ref="id" pref="2"/>
+        <Property value="About" ref="link_text" pref="3"/>
+        <Property value="//a[@title='Overview of Selenium']" ref="relative_xpath" pref="4"/>
+        <Property value="(/html/body/div[3]/div/ul/li/a)[1]" ref="xpath" pref="5"/>
+        <Property value="" ref="class" pref="6"/>
+        <Property value="a[title=&quot;Overview of Selenium&quot;]" ref="css" pref="7"/>
+        <Property value="a" ref="type" pref="8"/>
+      </Object>
+    </ObjectGroup>
+  </Page>
+  <Page title="Cricket Score, Schedule, Latest News, Stats &amp; Videos | Cricbuzz.com" ref="Cricket">
+    <ObjectGroup ref="International">
+      <Object frame="" ref="International">
+        <Property value="" ref="name" pref="1"/>
+        <Property value="international-mtchs-tab" ref="id" pref="2"/>
+        <Property value="International" ref="link_text" pref="3"/>
+        <Property value="//a[contains(normalize-space(text()),'International')]" ref="relative_xpath" pref="4"/>
+        <Property value="/html/body/div/div[2]/div[2]/div/div/nav/a[2]" ref="xpath" pref="5"/>
+        <Property value="cb-nav-tab-hm" ref="class" pref="6"/>
+        <Property value="#international-mtchs-tab" ref="css" pref="7"/>
+        <Property value="a" ref="type" pref="8"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="274, 162-all out (54.2 Ovs)">
+      <Object frame="" ref="274, 162-all out (54.2 Ovs)">
+        <Property value="" ref="name" pref="1"/>
+        <Property value="" ref="id" pref="2"/>
+        <Property value="" ref="link_text" pref="3"/>
+        <Property value="//*[normalize-space(text())='274, 162-all out (54.2 Ovs)']" ref="relative_xpath" pref="4"/>
+        <Property value="(/html/body/div/div[2]/div[2]/div/div[2]/div/div/div/a/div/div[2])[1]" ref="xpath" pref="5"/>
+        <Property value="cb-ovr-flo" ref="class" pref="6"/>
+        <Property value="html > body > div.page > #page-wrapper > div.cb-col.cb-col-100 > #match_menu_container > #hm-scag-mtch-blk > div.ng-scope > div.cb-col-100.cb-col cb-hm-scg-blk > div.cb-col.cb-col-25 cb-mtch-blk > a.cb-font-12 > div.cb-hmscg-bat-txt.cb-ovr-flo > div.cb-ovr-flo" ref="css" pref="7"/>
+        <Property value="div" ref="type" pref="8"/>
+      </Object>
+    </ObjectGroup>
+  </Page>
+  <Page title="IND 274, 162-all out (54.2 Ovs) vs ENG 287, 180 (Umesh Yadav 0(8) ) | England vs India, 1st Test - Live Score, Commentary - Cricbuzz" ref="IND">
+    <ObjectGroup ref="Scorecard">
+      <Object frame="" ref="Scorecard">
+        <Property value="" ref="name" pref="1"/>
+        <Property value="" ref="id" pref="2"/>
+        <Property value="Scorecard" ref="link_text" pref="3"/>
+        <Property value="//a[@title='England vs India, 1st Test Scorecard']" ref="relative_xpath" pref="4"/>
+        <Property value="/html/body/div/div[2]/div[4]/div[2]/nav/a[2]" ref="xpath" pref="5"/>
+        <Property value="cb-nav-tab" ref="class" pref="6"/>
+        <Property value="html > body > div.page > #page-wrapper > #matchCenter > div.cb-nav-main.cb-col-100 cb-col cb-bg-white > nav.cb-nav-bar > a.cb-nav-tab." ref="css" pref="7"/>
+        <Property value="a" ref="type" pref="8"/>
+      </Object>
+    </ObjectGroup>
+  </Page>
+  <Page title="Cricket scorecard - England vs India, 1st Test, India tour of England, 2018 | Cricbuzz.com" ref="Cricket1">
+    <ObjectGroup ref="Highlights">
+      <Object frame="" ref="Highlights">
+        <Property value="" ref="name" pref="1"/>
+        <Property value="" ref="id" pref="2"/>
+        <Property value="Highlights" ref="link_text" pref="3"/>
+        <Property value="//a[@title='England vs India, 1st Test Highlights']" ref="relative_xpath" pref="4"/>
+        <Property value="/html/body/div/div[2]/div[4]/div/nav/a[3]" ref="xpath" pref="5"/>
+        <Property value="cb-nav-tab" ref="class" pref="6"/>
+        <Property value="html > body > div.page > #page-wrapper > div.cb-col.cb-col-100 cb-bg-white > div.cb-nav-main.cb-col-100 cb-col cb-bg-white > nav.cb-nav-bar > a.cb-nav-tab." ref="css" pref="7"/>
+        <Property value="a" ref="type" pref="8"/>
+      </Object>
+    </ObjectGroup>
+  </Page>
+  <Page title="Cricket match highlights - England vs India, 1st Test, India tour of England, 2018 | Cricbuzz.com" ref="Cricket2">
+    <ObjectGroup ref="Full Commentary">
+      <Object frame="" ref="Full Commentary">
+        <Property value="" ref="name" pref="1"/>
+        <Property value="" ref="id" pref="2"/>
+        <Property value="Full Commentary" ref="link_text" pref="3"/>
+        <Property value="//a[@title='England vs India, 1st Test Full Commentary']" ref="relative_xpath" pref="4"/>
+        <Property value="/html/body/div/div[2]/div[4]/div/nav/a[4]" ref="xpath" pref="5"/>
+        <Property value="cb-nav-tab" ref="class" pref="6"/>
+        <Property value="html > body > div.page > #page-wrapper > #highlightsCenter > div.cb-nav-main.cb-col-100 cb-col cb-bg-white > nav.cb-nav-bar > a.cb-nav-tab." ref="css" pref="7"/>
+        <Property value="a" ref="type" pref="8"/>
+      </Object>
+    </ObjectGroup>
+  </Page>
+</Root>
